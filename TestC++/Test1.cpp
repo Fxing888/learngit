@@ -5,5 +5,6 @@ int main() {
     cout << "This is Test1.cpp" << endl;
     cout << "Just a simple test file." << endl;
     cout << "Goodbye!" << endl;
+    cout << "hello" << endl;
     return 0;
 }
